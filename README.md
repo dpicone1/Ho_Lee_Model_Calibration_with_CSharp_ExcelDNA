@@ -1,6 +1,4 @@
 # Ho_Lee_Model_Calibration_with_CSharp_ExcelDNA
-# lkdcvcal
-
 Calibrating Ho and Lee short term interest rate model in C#, ExcelDNA and Alglib.
 
 We previously covered the implementation of four interest rate models in Python in our Repository "Vasicek_CIR_HoLee_Hull_White_Models_Python".
