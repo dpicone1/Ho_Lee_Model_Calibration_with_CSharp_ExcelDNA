@@ -9,7 +9,7 @@ class ZCB(object):
     def __init__(self, _PVs):
 
         self.initialRates = np.array([0.0062760])
-        self.scalingFactor = 1000000.0
+        self.scalingFactor = 1000000.00
 
 
         self.PVs = [0.996400420164052, 0.983797731412662, 0.961105779236138,
