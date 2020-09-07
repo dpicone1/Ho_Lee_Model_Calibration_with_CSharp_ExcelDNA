@@ -8,7 +8,7 @@ import scipy.optimize as opt
 class ZCB(object):
     def __init__(self, _PVs):
 
-        self.initialRates = np.array([0.006276])
+        self.initialRates = np.array([0.0062760])
         self.scalingFactor = 1000000.0
 
 
